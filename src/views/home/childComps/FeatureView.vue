@@ -9,14 +9,6 @@
 <script>
 export default {
   name: "FeatureView",
-  props:{
-    keyword:{
-      type:Array,
-      default() {
-        return []
-      }
-    }
-  }
 }
 </script>
 
