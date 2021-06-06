@@ -162,6 +162,7 @@ export default {
   }
  .home-nav{
    background-color: var(--color-tint);
+   font-weight: 700;
    color: #fff;
 
    /*position: fixed;*/
