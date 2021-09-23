@@ -1,4 +1,4 @@
-# malltest
+# Vue-mall
 
 ## Project setup
 ```
